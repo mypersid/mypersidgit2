@@ -1,6 +1,3 @@
-# mypersidgit2
-
-
 mypersidgit2
 ============================
 
