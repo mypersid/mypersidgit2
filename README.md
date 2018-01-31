@@ -2,11 +2,11 @@ mypersidgit2
 ============================
 
 This sample application demonstrates the use of some [Oracle Spatial](http://docs.oracle.com/cd/E11882_01/appdev.112/e11830/toc.htm) features with Java. It is furthermore a finger exercise for combining the following Java and JavaScript technologies and frameworks:
-- [Mybatis](http://code.google.com/p/mybatis/) for SQL mapping
-- [GeoTools](http://geotools.org/) for spatial data processing
-- [Spring MVC](http://static.springsource.org/spring/docs/current/spring-framework-reference/html/mvc.html) and [Jackson](http://jackson.codehaus.org/) JSON library for RESTful webservices
-- [jQuery](http://jquery.com/) for AJAX stuff
-- [OpenLayers](http://openlayers.org/) for web-based GIS applications
+- [One](http://code.google.com/p/mybatis/) for SQL mapping
+- [Two](http://geotools.org/) for spatial data processing
+- [Three](http://static.springsource.org/spring/docs/current/spring-framework-reference/html/mvc.html) and [Jackson](http://jackson.codehaus.org/) JSON library for RESTful webservices
+- [Four](http://jquery.com/) for AJAX stuff
+- [Five](http://openlayers.org/) for web-based GIS applications
 
 Setup (Windows)
 ---------------
